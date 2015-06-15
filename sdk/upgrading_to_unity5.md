@@ -16,9 +16,9 @@ Upgrading your Unity is almost completely automated by Unity. All you need to do
 
 ## Upgrade VRChat SDK
 
-Download the latest SDK from [here](/beta). Next, with your Unity 5 project open, double click the downloaded .unitypackage to import it (and override the old SDK) into your Unity 5 project.
+Download the latest SDK from [here](http://vrchat.net/download). Next, with your Unity 5 project open, double click the downloaded .unitypackage to import it (and override the old SDK) into your Unity 5 project.
 
 ## Build for Unity 5 VRChat
-Once your project has been upgraded to Unity 5 and the newest VRChat SDK has been imported, you should be ready to build your VRChat assets. Export your upgraded asset and confirm it works in the latest VRChat [client](/beta). 
+Once your project has been upgraded to Unity 5 and the newest VRChat SDK has been imported, you should be ready to build your VRChat assets. Export your upgraded asset and confirm it works in the latest VRChat [client](http://vrchat.net/download). 
 
-Visit our [quickstart guide](/docs/sdk/quickstart/world#build-and-run) to see how to quickly build and run your VRChat assets. 
+Visit our [quickstart guide](http://vrchat.net/docs/sdk/quickstart/world#build-and-run) to see how to quickly build and run your VRChat assets. 

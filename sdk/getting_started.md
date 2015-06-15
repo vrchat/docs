@@ -2,12 +2,12 @@
 ## Requirements
 To visit and use virtual worlds and avatars that others have created, you need
 
-* the [VRChat Client](/download)
+* the [VRChat Client](http://vrchat.net/download)
 
 If you want to build your own virtual worlds and avatars, you need
 
-* the [VRChat Client](/download)
-* the [VRChat Unity SDK](/download)
+* the [VRChat Client](http://vrchat.net/download)
+* the [VRChat Unity SDK](http://vrchat.net/download)
 * the latest [Unity 5](http://unity3d.com/get-unity) (Personal or Professional)
 
 ## Setup a VRChat Project
@@ -15,7 +15,7 @@ Every piece of content built for VRChat will start with a VRChat Unity Project.
 To create an empty VRChat project, you need to 
 
 * Create a new Unity 5 project
-* Import the latest [VRChat Unity SDK](/download)
+* Import the latest [VRChat Unity SDK](http://vrchat.net/download)
 
 You now have the base project for creating a virtual avatar or world.
 
@@ -34,7 +34,7 @@ At the core of avatar creation is a script called `VRC_AvatarDescriptor`. Every 
 	* ** Note: There are two version of each SDK script. Always use the DLL (not the c#) versions. **  
 *  Export and test
 
-See the [quickstart for avatars](/docs/sdk/quickstart/avatar) to create your first avatar.
+See the [quickstart for avatars](http:vrchat.net/docs/sdk/quickstart/avatar) to create your first avatar.
 
 See aVRname's [Avatar Tutorial](http://54.68.196.193/codoforum/index.php?u=/topic/38/tutorial-beginner-create-a-custom-avatar) on the forums.
 
@@ -58,7 +58,7 @@ At the core of world creation is a script called `VRC_SceneDescriptor`. Every cu
 * Export and test
 
 
-See the [quickstart for worlds](/docs/sdk/quickstart/world).
+See the [quickstart for worlds](http://vrchat.net/docs/sdk/quickstart/world).
 
 See the simple world youtube [tutorial](https://www.youtube.com/watch?v=vTsWj0hA6g0).
 
@@ -101,7 +101,7 @@ You can host your .vrc files either locally (on your local computer) or remotely
 	* remote - http://mywebsite.com/myAvatar.vrca
 * Click `Save`
 
-Also see our importing avatars [quickstart](/docs/sdk/quickstart/avatar#import-avatar).
+Also see our importing avatars [quickstart](http://vrchat.net/docs/sdk/quickstart/avatar#import-avatar).
 
 
 ### Worlds
